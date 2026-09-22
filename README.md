@@ -69,16 +69,16 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Overlay1010&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Overlay1010&layout=compact&theme=tokyonight&hide_border=true" />
+  <img src="./profile-summary-card-output/tokyonight/0-profile-details.svg" width="100%" />
+</p>
+
+<p align="center">
+  <img src="./profile-summary-card-output/tokyonight/3-stats.svg" width="49%" />
+  <img src="./profile-summary-card-output/tokyonight/2-most-commit-language.svg" width="49%" />
 </p>
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=Overlay1010&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Overlay1010&theme=tokyo-night&hide_border=true&area=true" width="100%"/>
 </p>
 
 <!-- 🐍 잔디 먹는 뱀: .github/workflows/snake.yml 설정 후 주석 해제
