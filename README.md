@@ -1,5 +1,9 @@
 <!-- Header -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Hi%20there,%20I'm%20Overlay1010%20👋&fontSize=36&fontColor=ffffff&animation=fadeIn&fontAlignY=38" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=%EC%95%88%EB%85%95%ED%95%98%EC%84%B8%EC%9A%94%2C%20%EC%B5%9C%EC%84%B1%EC%9A%B1%EC%9E%85%EB%8B%88%EB%8B%A4%20%F0%9F%91%8B&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=38" width="100%"/>
+
+<p align="center">
+  <img src="./assets/profile.png" width="160" alt="최성욱" />
+</p>
 
 <p align="center">
   <a href="https://github.com/Overlay1010">
