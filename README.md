@@ -2,7 +2,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=%EC%95%88%EB%85%95%ED%95%98%EC%84%B8%EC%9A%94%2C%20%EC%B5%9C%EC%84%B1%EC%9A%B1%EC%9E%85%EB%8B%88%EB%8B%A4%20%F0%9F%91%8B&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=38" width="100%"/>
 
 <p align="center">
-  <img src="./assets/profile.png" width="160" alt="최성욱" />
+  <img src="https://github.com/Overlay1010.png?size=320" width="160" alt="최성욱" />
 </p>
 
 <p align="center">
@@ -20,10 +20,17 @@
 
 ### 🙋‍♂️ About Me
 
-- 🤖 데이터와 AI로 **실제 문제를 푸는 서비스**를 만드는 걸 좋아해요
-- 🔬 머신러닝 모델링부터 **LLM · RAG** 기반 애플리케이션까지 공부하고 있어요
-- 🚀 모델을 노트북에서 끝내지 않고 **API와 앱으로 서비스화**하는 데 관심이 많아요
-- 📫 Contact: overlay1010@gmail.com
+> **데이터로 문제를 정의하고, 모델을 서비스까지 연결하는 AI 엔지니어를 목표로 하고 있습니다.**
+
+- 🎯 **Target** : AI / ML Engineer · LLM Application Developer
+- 🧠 **ML** : 데이터 수집 → 전처리 · 피처 엔지니어링 → 군집 · 회귀 · 분류 모델링 경험
+- 🔎 **LLM** : 크롤링 · 임베딩 파이프라인, RAG 기반 검색 · 추천 기능 구현 경험
+- 🚀 **Service** : FastAPI 백엔드와 Flutter · React 프론트엔드로 모델을 실제 서비스에 연결
+- 🤝 **Teamwork** : 다수의 팀 프로젝트를 협업으로 완수
+  - 팀장으로서 일정 관리 · 역할 분배를 맡아 팀을 이끈 경험
+  - 팀원으로서 맡은 파트를 책임지고 구현해 전체 서비스에 통합한 경험
+  - Git · GitHub 기반 브랜치 협업과 문서화(README)로 팀 간 소통
+- 📫 **Contact** : overlay1010@gmail.com
 
 ---
 
