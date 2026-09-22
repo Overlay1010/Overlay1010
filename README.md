@@ -3,7 +3,7 @@
 
 <p align="center">
   <a href="https://github.com/Overlay1010">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Data+%26+ML+Engineer+in+progress;Seoul+Apartment+Price+Analysis+%F0%9F%8F%A2;Clustering+%E2%86%92+Regression+%E2%86%92+Classification;Python+%7C+scikit-learn+%7C+XGBoost+%7C+Flutter" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=AI+%26+ML+Engineer+in+progress;Data+%E2%86%92+Model+%E2%86%92+Service;RAG+%7C+LLM+%7C+Machine+Learning;Python+%7C+FastAPI+%7C+Flutter" alt="Typing SVG" />
   </a>
 </p>
 
@@ -14,9 +14,12 @@
 
 ---
 
-###  About Me
+### 🙋‍♂️ About Me
 
-
+- 🤖 데이터와 AI로 **실제 문제를 푸는 서비스**를 만드는 걸 좋아해요
+- 🔬 머신러닝 모델링부터 **LLM · RAG** 기반 애플리케이션까지 공부하고 있어요
+- 🚀 모델을 노트북에서 끝내지 않고 **API와 앱으로 서비스화**하는 데 관심이 많아요
+- 📫 Contact: overlay1010@gmail.com
 
 ---
 
@@ -37,28 +40,29 @@
   <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
   <img src="https://img.shields.io/badge/XGBoost-189FDD?style=for-the-badge&logo=xgboost&logoColor=white"/>
   <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=plotly&logoColor=white"/>
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Pinecone-000000?style=for-the-badge&logo=pinecone&logoColor=white"/>
 </p>
 
-**App & Infra**
+**Backend & Frontend**
 
 <p>
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
   <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"/>
   <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white"/>
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
+</p>
+
+**Infra & Tools**
+
+<p>
   <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </p>
-
----
-
-### 📌 Featured Project
-
-<p align="center">
-  <a href="https://github.com/Overlay1010/apartment_price">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Overlay1010&repo=apartment_price&theme=tokyonight&hide_border=true" />
-  </a>
-</p>
-
 
 ---
 
