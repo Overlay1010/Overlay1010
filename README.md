@@ -92,14 +92,13 @@
   <img src="https://streak-stats.demolab.com?user=Overlay1010&theme=tokyonight&hide_border=true" />
 </p>
 
-<!-- 🐍 잔디 먹는 뱀: .github/workflows/snake.yml 설정 후 주석 해제
+<!-- 🐍 잔디 먹는 뱀 (.github/workflows/snake.yml → output 브랜치) -->
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Overlay1010/Overlay1010/output/github-snake-dark.svg" />
     <img src="https://raw.githubusercontent.com/Overlay1010/Overlay1010/output/github-snake.svg" />
   </picture>
 </p>
--->
 
 <!-- Footer -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=120&section=footer" width="100%"/>
