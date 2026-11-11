@@ -47,9 +47,10 @@
 - 분류·회귀·군집을 결합해 이탈 위험 고객을 일찍 찾는 ML 서비스 (scikit-learn · XGBoost · React)
 - **내 역할** 주제 제안, 모델링 리드, 대시보드 · 활동성 갭 이탈 판별 **AUC 0.73** · [배포 사이트](https://cardops-frontend.onrender.com/)
 
-#### 🏢 [JeGap (제값)](https://github.com/Overlay1010/jegap) · 서울 아파트 적정가 분석 `개인` `2026.08 ~ 고도화 중`
+#### 🏢 [JeGap (제값)](https://github.com/Overlay1010/jegap) · ML 적정가 예측 · LLM 상담 서울 아파트 B2C 서비스 `개인` `2026.08 ~ 진행 중`
 
-- "제값 주고 사는 건가?"에 답하는 B2C 서비스를 목표로, 실거래 **23만 건**으로 적정가 · 오차 범위 · 적정가 대비 등급을 내는 엔드투엔드 ML (Python · Pandas · LightGBM)
+- "제값 주고 사는 건가?"에 답하는 서비스. 실거래 **23만 건**으로 적정가 · 오차 범위 · 적정가 대비 등급을 내고, LLM이 근거를 설명 · 상담 (Python · LightGBM · Django · FastAPI)
+- **현재** 데이터 수집 · Feature · ML 모델(V2) · 집 단위 재점검(V3) 완료, 다음은 웹 · LLM 상담(V4)
 - **내 역할** 데이터 수집부터 피처 설계·모델링·검증까지 혼자 진행 · 적정가 오차(MAPE) **5.35%**, 직전 실거래가를 그대로 쓸 때(6.67%)보다 정확
 
 <br>
